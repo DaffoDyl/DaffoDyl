@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dylan Armstrong.
-- I’m interested in machine learning, game development, algorithmic trading, and game theory. Outside of my computer science interests I enjoy D&D, books by Brandon Sanderson, and musical theater.
+- I’m interested in machine learning, mobile development, and game development. Outside of my computer science interests I enjoy D&D, books by Brandon Sanderson, and musical theater.
 - Currently working on developing a game in Godot.
 - You can reach me most easily at dylan.armstrong299@gmail.com
 
